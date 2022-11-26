@@ -23,10 +23,6 @@ Check out [API LIVE DEMO](https://backend-cooltees.herokuapp.com/) here!!
 
 1. Git Clone
 
-```
-git clone https://github.com/1r4j/cooltees-iraj.git
-```
-
 2. Backend setting
 
 ```
